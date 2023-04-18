@@ -1,0 +1,17 @@
+/* Write your code here. */
+button {
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.img {
+  height: 50px;
+  width: 50px;
+}
+.active-thumb-nail {
+  height: 50px;
+  width: 50px;
+  opacity: 0.5;
+  background-color: transparent;
+  border-width: 0px;
+}

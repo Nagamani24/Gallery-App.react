@@ -1,0 +1,35 @@
+/* Write your code here. */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  height: 400px;
+  width: 700px;
+  margin-top: 3%;
+}
+
+h1 {
+  font-size: 20px;
+  font-family: Roboto;
+  padding-left: 1%;
+}
+
+p {
+  font-size: 13px;
+  color: #64748b;
+  font-weight: 600;
+  font-family: Roboto;
+  padding-left: 1%;
+}
+
+.thumbnail-container {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding-left: 0px;
+}
